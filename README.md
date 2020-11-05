@@ -1,2 +1,2 @@
 # Projets
-Différent projet réalisé au cour de ma scolarité
+Différents projet réalisé au cour de ma scolarité
