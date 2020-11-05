@@ -1,5 +1,5 @@
 # Projets
-Différents projet réalisé au cour de ma scolarité
+Différents projets réalisé au cour de ma scolarité
 
 Projet Bac STI2D SIN 
 
@@ -24,7 +24,7 @@ Projet BTS SNIR
 
 Projet Piscine Web
 
-    Ce projet consistait à créer un site d'offre d'emploie 
+    Ce projet consistait à créer un site d'offre d'emploi 
     Ma partie de ce projet consistait à faire le BACK du site avec une API REST et une base de donnée
     Pour faire le back j'ai utilisé PHP et MySql
 
